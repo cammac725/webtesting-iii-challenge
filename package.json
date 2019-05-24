@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.5"
+    "react-scripts": "^3.0.1",
+    "typescript": "^3.4.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -23,7 +24,21 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "jest-dom": "^3.1.2",
-    "react-testing-library": "^6.1.2"
-  }
+    "jest-dom": "^3.2.2",
+    "react-test-renderer": "^16.8.6",
+    "react-testing-library": "^7.0.1"
+  },
+  "description": "In this project, you will demonstrate proficiency by writing unit tests for an existing React application. Your tests should verify the behavior listed in the _Minimum Viable Product_ section.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cammac725/webtesting-iii-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cammac725/webtesting-iii-challenge/issues"
+  },
+  "homepage": "https://github.com/cammac725/webtesting-iii-challenge#readme"
 }
